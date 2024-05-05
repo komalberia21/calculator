@@ -34,7 +34,8 @@ body{
 .screen{
   height: 4rem;
   margin-bottom: 4rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: 500;
   display: flex;
   justify-content: left;
   align-items: left;
